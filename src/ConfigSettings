@@ -1,0 +1,15 @@
+<appSettings>
+ 
+<add key="ADALServiceURL" value="https://login.microsoftonline.com"/>
+ 
+<add key="ADALRedirectURL" value="http://localhost/"/>
+ 
+<add key="BillingServiceURL" value="https://management.azure.com"/>
+ 
+<add key="TenantDomain" value="XXXXXX.com"/>
+ 
+<add key="SubscriptionID" value="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"/>
+ 
+<add key="ClientId" value="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"/>
+ 
+</appSettings>
